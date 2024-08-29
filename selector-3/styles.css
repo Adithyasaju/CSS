@@ -4,3 +4,9 @@ a{
 .abc{
     background-color: yellow;
 }
+a[target]{
+    background-color: yellow;
+}
+*{
+    background-color: palevioletred;
+}
